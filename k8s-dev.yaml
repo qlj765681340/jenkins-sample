@@ -24,7 +24,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-   name: demo
+   name: demo1
    namespace: devlopment
 spec:
    selector:
